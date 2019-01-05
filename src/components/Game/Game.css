@@ -1,0 +1,68 @@
+.Game {
+    margin: auto;
+    width: 70%;
+    max-width: 800px;
+    min-width: 360px;
+    position: relative;
+    background-image: url('../../img/jigsaw.svg'), linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(255, 251, 251, 0.1));
+    box-shadow: 0 0 100px 0px black;
+    padding: 20px;
+    box-sizing: border-box;
+    transition: transform 0.1s;
+}
+.Players {
+    width: 100%;
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.winScore-container{
+    order: 1;
+    color: white;
+    background-image: linear-gradient(to right ,transparent, black, transparent);
+    align-self: flex-start;
+}
+
+.score-container{
+    width: 80%;
+    margin: auto;
+    padding: 10px 0;
+    background-image: linear-gradient(to right ,transparent, black, transparent);
+}
+
+.score{
+    color: white;
+    font-size: 30px;
+    line-height: 0;
+}
+
+.btn{
+    font-family: inherit;
+    font-size: 16px;
+    padding: 5px 20px;
+    background: transparent;
+    color: white;
+}
+
+.btn-roll{
+    margin-right: 10px;
+    color: black;
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid black;
+}
+
+.btnPlayAgain{
+    display: none;
+}
+.playAgain{
+    margin: auto;
+    display: block;
+    color: white;
+    background: rgba(0, 0, 0, 0.8);
+}
+.msg-play-again{
+    background-image: linear-gradient(to right ,transparent, black, transparent);
+    color: white;
+}

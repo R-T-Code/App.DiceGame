@@ -1,0 +1,15 @@
+{
+  "main.css": "./static/css/main.762e8bc4.chunk.css",
+  "main.js": "./static/js/main.f9e965ca.chunk.js",
+  "main.js.map": "./static/js/main.f9e965ca.chunk.js.map",
+  "static/js/1.4fd91c74.chunk.js": "./static/js/1.4fd91c74.chunk.js",
+  "static/js/1.4fd91c74.chunk.js.map": "./static/js/1.4fd91c74.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/css/main.762e8bc4.chunk.css.map": "./static/css/main.762e8bc4.chunk.css.map",
+  "static/media/index.css": "./static/media/background.da386a91.jpg",
+  "static/media/Game.css": "./static/media/jigsaw.0ec701e0.svg",
+  "index.html": "./index.html",
+  "precache-manifest.f4a0ad5fd6fa208dce5296651bd051f7.js": "./precache-manifest.f4a0ad5fd6fa208dce5296651bd051f7.js",
+  "service-worker.js": "./service-worker.js"
+}
